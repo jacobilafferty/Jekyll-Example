@@ -3,5 +3,8 @@ layout: single
 title: My First Post
 author_profile: true
 ---
+author:
+    name: James
+    email: James@James.net
 
 This is my first post!
