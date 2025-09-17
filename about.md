@@ -1,6 +1,6 @@
 ---
 title: About
-layout: Single 
+layout: single 
 ---
 
 This is a really great about page!
