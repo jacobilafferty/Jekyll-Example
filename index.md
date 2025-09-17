@@ -1,8 +1,14 @@
 ---
 layout: home
 title: Welcome Home!
+excerpt: This is a test excerpt 
 header:
-    image: /assets/images/edwin-compton-Z8XlmAj65iM-unsplash.jpg
+    overlay_image: /assets/images/edwin-compton-Z8XlmAj65iM-unsplash.jpg
+    actions:
+        - label: "Learn More"
+          url: /about 
+    overlay_filter: rgba(79, 99, 82, 0.5)
+
 ---
 
 # This is my home page 
