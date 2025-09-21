@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Welcome Home!
-excerpt: This is a test excerpt 
+title: Ocean Greens Resort!
+excerpt: Paradise on Earth 
 header:
-    overlay_image: /assets/images/edwin-compton-Z8XlmAj65iM-unsplash.jpg
+    overlay_image: /assets/images/OceanGolf.jpg
     actions:
         - label: "Learn More"
           url: /about 
